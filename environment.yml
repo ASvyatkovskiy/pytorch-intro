@@ -1,0 +1,10 @@
+name: hello-pytorch
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.6
+  - pytorch=0.4.0
+  - keras
+  - matplotlib
+  - jupyter
